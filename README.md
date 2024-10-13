@@ -31,7 +31,7 @@ experiences, often ending up at overcrowded tourist hotspots that fail to captur
 the true essence of their destinations.
 
 2. Over-Reliance on Mainstream Travel Apps - Research indicates that 60% of travelers
-prefer oE-the-beaten-path experiences (Skift, 2021), yet many rely on mainstream
+prefer off-the-beaten-path experiences (Skift, 2021), yet many rely on mainstream
 travel applications that often direct them to congested areas, limiting their exposure to
 unique attractions.
 
@@ -112,7 +112,7 @@ Competitor Weaknesses:
    
 **Monetization Model:**
 
-1. Partnerships with Local Businesses: OEer promotions or exclusive deals for users who check-in or review local businesses.
+1. Partnerships with Local Businesses: Offer promotions or exclusive deals for users who check-in or review local businesses.
    
 2. In-App Advertising: Relevant, non-intrusive ads for travel services or experiences.
    
@@ -193,7 +193,7 @@ Limitations:
 3. User Engagement: Success relies on user engagement; if users do not actively
 contribute or share reviews, the app's effectiveness may be diminished.
 
-**Challenges and Open Questions******
+****Challenges and Open Questions****
 
 **Challenges:**
 
